@@ -1,1 +1,23 @@
-# PittResearchMethods
+# Readings for Introduction to Research Methods circa 2008
+## University of Pittsburgh, DBMI
+
+* [The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
+* [What Constitutes a Publication in the Digital Environment?](https://www.nap.edu/read/10969/chapter/8)
+* [EXPERIENCE WITH BAYE'S THEOREM FOR COMPUTER DIAGNOSIS OF CONGENITAL HEART DISEASE](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1964.tb00043.x)
+* [The Ethical Basis of Science](https://www.jstor.org/stable/1717624)
+* [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/)
+* [The Problem of Induction](https://plato.stanford.edu/entries/induction-problem/)
+* [How to Change Your Mind](https://www.jstor.org/stable/3703051)
+* [Induction versus Popper: substance versus semantics](https://doi.org/10.1093/ije/27.4.543)
+* [Probability Logic and Probabilistic Induction](https://www.jstor.org/stable/3703064)
+* [What do we know about knowledge?](https://doi.org/10.1609/aimag.v27i4.1908)
+* [Experiment in Physics](https://plato.stanford.edu/entries/physics-experiment/)
+* [Ten Reasons Why TeX is Better than Word](http://web.mit.edu/klund/www/urk/texvword.html)
+* [Word Processors: Stupid and Inefficient](http://ricardo.ecn.wfu.edu/~cottrell/wp.html)
+* [Sampling and Standard Error, L.C. Tippett]()
+* [Suggestions for Keeping Laboratory Notebooks](https://otl.stanford.edu/suggestions-keeping-laboratory-notebooks)
+* [The computer scientist as toolsmith II](https://dl.acm.org/citation.cfm?doid=227234.227243)
+* [A quantitative analysis of qualitative studies in clinical journals for the 2000 publishing year](https://link.springer.com/article/10.1186/1472-6947-4-11)
+* [Qualitative Research in Health Care: Analysing Qualitative Data](https://www.jstor.org/stable/25186804)
+* [Beyond Randomization](http://search.ebscohost.com/login.aspx?direct=true&db=mdc&AN=12614529&site=ehost-live)
+* [The Use and Interpretation of Quasi-Experimental Studies in Medical Informatics](https://doi.org/10.1197/jamia.M1749)
